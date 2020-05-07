@@ -10,4 +10,6 @@
 
 source ~/p37/bin/activate
 
-python get_drive_file.py 0B7EVK8r0v71pZjFTYXZWM3FlRnM celebA.zip
+python get_drive_file.py  1L-kpCZFr3vLaXWUfu8__-MZ2ZSs_V-Qd celebA.zip
+
+unzip celebA.zip
