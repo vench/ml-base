@@ -22,3 +22,4 @@ pip install --upgrade pip
 pip install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
 pip install pillow
 pip install opencv-python
+pip install jupyter
